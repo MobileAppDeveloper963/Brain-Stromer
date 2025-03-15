@@ -1,16 +1,10 @@
-# profile_screens
+# Brain-Stromer
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85b5c4d1-8b19-45f4-89e9-6f5142fb8f1c" width="30%">
+  <img src="https://github.com/user-attachments/assets/11b12411-4c44-47b8-9a2c-d27ab97aa66c" width="30%">
+  <img src="https://github.com/user-attachments/assets/a03529da-d1a2-48a2-8295-0d522485d7d6" width="30%">
+</p>
